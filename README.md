@@ -5,3 +5,5 @@
 ## [编程高手必学的内存知识](https://egg-pie-driver.github.io/memory-course/)
 ## [Java并发编程实战](https://egg-pie-driver.github.io/java-concurrent-course/)
 ## [设计模式之美](https://egg-pie-driver.github.io/design-patterns-course/)
+## [Redis核心技术与实战](https://egg-pie-driver.github.io/redis-course/)
+
