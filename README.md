@@ -7,4 +7,6 @@
 ## [设计模式之美](https://egg-pie-driver.github.io/design-patterns-course/)
 ## [数据结构与算法之美](https://egg-pie-driver.github.io/data-structure-course/)
 ## [Redis核心技术与实战](https://egg-pie-driver.github.io/redis-course/)
+## [业务开发算法50讲](https://egg-pie-driver.github.io/business-algorithm-course/)
+
 
