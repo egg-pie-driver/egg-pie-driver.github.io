@@ -9,5 +9,6 @@
 ## [Redis核心技术与实战](https://egg-pie-driver.github.io/redis-course/)
 ## [业务开发算法50讲](https://egg-pie-driver.github.io/business-algorithm-course/)
 ## [动态规划面试宝典](https://egg-pie-driver.github.io/dynamic-programming-course/)
+## [反爬虫兵法演绎20讲](https://egg-pie-driver.github.io/against-spider-course/)
 
 
