@@ -8,6 +8,6 @@
 ## [数据结构与算法之美](https://egg-pie-driver.github.io/data-structure-course/)
 ## [Redis核心技术与实战](https://egg-pie-driver.github.io/redis-course/)
 ## [业务开发算法50讲](https://egg-pie-driver.github.io/business-algorithm-course/)
-## [动态规划面试](https://egg-pie-driver.github.io/dynamic-programming-course/)
+## [动态规划面试宝典](https://egg-pie-driver.github.io/dynamic-programming-course/)
 
 
